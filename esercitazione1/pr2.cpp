@@ -31,3 +31,9 @@ int main(int argc, const char *argv[])
 
     return 0;
 }
+
+// è stata impiegata l'intelligenza artificiale per capire come costruire alcune parti
+// del codice non chiare a causa di una prolungata e indesiderata assenza dalle lezioni e 
+// a una chiarezza ritenuta scarsa delle slides, a causa del livello di partenza del sottoscritto
+// davvero estremamente basso. esempi : riga 15, riga 17, riga 26, riga 29. Le informazioni 
+// suggerite, una volta comprese, sono state poi riformulate da zero.
