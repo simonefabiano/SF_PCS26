@@ -21,3 +21,5 @@ int main() {
 
     return 0;
 }
+
+// Non è stata utilizzata l'IA
