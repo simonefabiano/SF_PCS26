@@ -24,10 +24,10 @@ int main() {
  
     double devst = std::sqrt(sommaSQ / N); 
 
-    std::cout << "Minimo:             " << minimo << "\n";
-    std::cout << "Massimo:            " << massimo << "\n";
+    std::cout << "Minimo:              " << minimo << "\n";
+    std::cout << "Massimo:              " << massimo << "\n";
     std::cout << "Media:              " << media << "\n";
-    std::cout << "Deviazione Standard: " << devst << "\n";
+    std::cout << "Deviazione Standard:               " << devst << "\n";
 
     return 0;
 }
