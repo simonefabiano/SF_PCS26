@@ -1,0 +1,4 @@
+C:/Users/fabia/Desktop/Docker/Data/SF_PCS26/build/CMakeFiles/memoria_oggetti.dir
+C:/Users/fabia/Desktop/Docker/Data/SF_PCS26/build/CMakeFiles/primi_algoritmi.dir
+C:/Users/fabia/Desktop/Docker/Data/SF_PCS26/build/CMakeFiles/edit_cache.dir
+C:/Users/fabia/Desktop/Docker/Data/SF_PCS26/build/CMakeFiles/rebuild_cache.dir

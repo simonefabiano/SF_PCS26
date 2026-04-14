@@ -1,0 +1,28 @@
+#include <iostream>
+#include <vector>
+#include <string>
+#include "ord.h"
+#include "randfiller.h"
+
+int main() {
+    randfiller rf;
+    
+    for (int i = 0; i < 100; ++i) {
+        int size = rand() % 100 + 1; 
+        std::vector<int> v(size);
+        rf.fill(v, -1000, 1000);
+        
+        bubble_sort(v);
+        
+        if (!is_sorted_vec(v)) return EXIT_FAILURE; [cite: 16]
+    }
+
+    std::vector<std::string> vs = {"mela", "pera", "banana", "arancia", "kiwi"};
+    bubble_sort(vs);
+    if (!is_sorted_vec(vs)) return EXIT_FAILURE;
+
+    return EXIT_SUCCESS; [cite: 9]
+}
+
+// Usata AI per scheletro base del codice da cui studiare, dovuto al tempo limitato per lo svolgimento dell'esercitazione a causa di
+// motivi di salute. Si provvederà al recupero

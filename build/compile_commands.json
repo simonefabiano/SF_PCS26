@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/fabia/Desktop/Docker/Data/SF_PCS26/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe  -Wall -Wshadow -Werror=vla -g -std=gnu++20 -o CMakeFiles\\memoria_oggetti.dir\\memoria_oggetti.cpp.obj -c C:\\Users\\fabia\\Desktop\\Docker\\Data\\SF_PCS26\\esercitazione2\\memoria_oggetti.cpp",
+  "file": "C:/Users/fabia/Desktop/Docker/Data/SF_PCS26/esercitazione2/memoria_oggetti.cpp",
+  "output": "C:/Users/fabia/Desktop/Docker/Data/SF_PCS26/build/CMakeFiles/memoria_oggetti.dir/memoria_oggetti.cpp.obj"
+},
+{
+  "directory": "C:/Users/fabia/Desktop/Docker/Data/SF_PCS26/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe  -Wall -Wshadow -Werror=vla -g -std=gnu++20 -o CMakeFiles\\primi_algoritmi.dir\\primi_algoritmi.cpp.obj -c C:\\Users\\fabia\\Desktop\\Docker\\Data\\SF_PCS26\\esercitazione2\\primi_algoritmi.cpp",
+  "file": "C:/Users/fabia/Desktop/Docker/Data/SF_PCS26/esercitazione2/primi_algoritmi.cpp",
+  "output": "C:/Users/fabia/Desktop/Docker/Data/SF_PCS26/build/CMakeFiles/primi_algoritmi.dir/primi_algoritmi.cpp.obj"
+}
+]
