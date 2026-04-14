@@ -14,14 +14,14 @@ int main() {
         
         bubble_sort(v);
         
-        if (!is_sorted_vec(v)) return EXIT_FAILURE; [cite: 16]
+        if (!is_sorted_vec(v)) return EXIT_FAILURE;
     }
 
     std::vector<std::string> vs = {"mela", "pera", "banana", "arancia", "kiwi"};
     bubble_sort(vs);
     if (!is_sorted_vec(vs)) return EXIT_FAILURE;
 
-    return EXIT_SUCCESS; [cite: 9]
+    return EXIT_SUCCESS;
 }
 
 // Usata AI per scheletro base del codice da cui studiare, dovuto al tempo limitato per lo svolgimento dell'esercitazione a causa di
