@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/tempo_ord.dir/link.d CMakeFiles/tempo_ord.dir/tempo_ord.cpp.o CMakeFiles/tempo_ord.dir/timecounter.cpp.o -o tempo_ord

@@ -1,0 +1,5 @@
+Dalle mie osservazioni, gli algoritmi quadratici BubbleSort, InsertionSort e SelectionSort
+sono più lenti degli algoritmi logaritmici QuickSort e MergeSort anche per dimensioni piccole
+(persino con N=4 il QuickSort è più rapido)
+
+Per quanto riguarda la compilazione del codice, Release è molto più veloce di Debug
