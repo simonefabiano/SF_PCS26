@@ -22,15 +22,15 @@ int main() {
         bubble_sort(v);
         std::cout << tc.toc() << "\t";
 
-        auto v = base;
+        v = base;
         tc.tic();
         insertion_sort(v);
         std::cout << tc.toc() << "\t";
 
-        auto v = base;
+        v = base;
         tc.tic();
         selection_sort(v);
-        std::cout << tc.toc() << "\t"
+        std::cout << tc.toc() << "\t";
 
         v = base;
         tc.tic();
